@@ -1,6 +1,6 @@
 # Frontend Mentor - Order summary card
 
-Demo is here[https://fantastic-weather.surge.sh/](./design/desktop-preview.jpg)
+Demo is here [https://fantastic-weather.surge.sh/]
 
 ## Welcome! 👋
 
